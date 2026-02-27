@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1772180499 source:d:\184923\27luty\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
