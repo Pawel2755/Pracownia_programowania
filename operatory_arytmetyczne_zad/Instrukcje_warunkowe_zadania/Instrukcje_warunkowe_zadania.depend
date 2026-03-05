@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1772723776 source:c:\users\pawel\onedrive\pulpit\c\instrukcje_warunkowe_zadania\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
