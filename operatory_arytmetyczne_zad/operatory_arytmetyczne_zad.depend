@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1772638170 source:c:\users\pawel\onedrive\pulpit\c\operatory_arytmetyczne_zad\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
