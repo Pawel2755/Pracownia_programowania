@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1773575245 source:c:\users\pawel\onedrive\pulpit\c\petle_zadania_cd\main.c
+	<stdio.h>
+	<stdlib.h>
+
